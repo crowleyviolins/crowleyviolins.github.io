@@ -1,0 +1,29 @@
+/* Home/index page sliders /index.html*/
+
+
+
+
+/* Instrument Gallery /instruments.html */
+
+.team #section-1 {
+	background: url('../img/portfolio/strad_top.jpg') 50% 0 no-repeat; 
+}
+.team #section-2 {
+	background: url('../img/portfolio/strad_back.jpg') 50% 0 no-repeat; 
+}
+.team #section-3 {
+	background: url('../img/portfolio/cello_stradb.jpg') 50% 0 no-repeat; 
+}
+.team #section-4 {
+	background: url('../img/portfolio/deggville_top.jpg') 50% 0 no-repeat; 
+}
+.team #section-5 {
+	background: url('../img/portfolio/graduation.jpg') 50% 0 no-repeat; 
+}
+/*
+.team #section-4 {
+	background: url('../img/portfolio/viola_top15-5.jpg') 50% 0 no-repeat; 
+}
+*/
+
+
